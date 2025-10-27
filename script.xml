@@ -1,7 +1,3 @@
-<nodes name="xml widget sample234">
-  <node duration="4" category="news">
-    <widget id="title" type="text">Android App is public</widget>
-    <widget id="message" type="text">Our Android™ App is freely available on Google Play™! We now support even a broader range of hardware players including the cheap MK808b or MK809 IV based devices or tablets. Upon request we also offer introduced a broadcast license for players. </widget>
-    <widget id="img1" type="image">https://s3-eu-west-1.amazonaws.com/sklera/xmlsample/Android_Robot_200.png</widget>
-  </node>
-</nodes>
+<widget id="title" type="text">
+    <![CDATA[<span style="left:0px;position:absolute;">cloud</span><span style="left:300px;position:absolute;"><strong>driven</strong></span><span style="left:600px;position:absolute;">Digital</span> <span style="left:900px;position:absolute;"><strong>Signage</strong></span>]]>
+</widget>
