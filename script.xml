@@ -1,3 +1,7 @@
-<widget id="title" type="text">
-    <![CDATA[<span style="left:0px;position:absolute;">cloud</span><span style="left:300px;position:absolute;"><strong>driven</strong></span><span style="left:600px;position:absolute;">Digital</span> <span style="left:900px;position:absolute;"><strong>Signage</strong></span>]]>
-</widget>
+<nodes name="xml widget sample">
+   <node duration="4" category="news" validTo="20180911T1530">
+      <widget id="message" type="text">TEXT FÜR EIN TEXTELEMENT</widget>
+       <widget id="img1" type="image">URL ZU EINER BILD-DATEI</widget>
+       <widget id="video1" type="video">URL ZU EINER MP4-VIDEO-DATEI</widget>
+   </node>
+</nodes>
