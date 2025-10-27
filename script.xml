@@ -1,10 +1,11 @@
 <nodes name="schulnetz daten">
-  <node duration="8">
+  <node duration="8" category="news">
     <widget id="title" type="text">KW 44: Mittagsmusik, verantwortlich Patrik Lüscher</widget>
     <widget id="message" type="text">30.10.2025 – 12:05 Uhr @ Aulabühne</widget>
   </node>
-  <node duration="8">
+  <node duration="8" category="news">
     <widget id="title" type="text">KW 44: YES-Gründungsversammlung</widget>
     <widget id="message" type="text">30.10.2025 – 19:00 Uhr @ PE16</widget>
   </node>
 </nodes>
+
