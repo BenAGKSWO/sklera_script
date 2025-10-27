@@ -1,11 +1,6 @@
-<nodes name="schulnetz daten">
-  <node duration="8" category="news">
-    <widget id="title" type="text">KW 44: Mittagsmusik, verantwortlich Patrik Lüscher</widget>
-    <widget id="message" type="text">30.10.2025 – 12:05 Uhr @ Aulabühne</widget>
-  </node>
-  <node duration="8" category="news">
-    <widget id="title" type="text">KW 44: YES-Gründungsversammlung</widget>
-    <widget id="message" type="text">30.10.2025 – 19:00 Uhr @ PE16</widget>
+<nodes name="xml widget sample234">
+  <node duration="4" category="news">
+    <widget id="title" type="text">Android App is public</widget>
+    <widget id="message" type="text">Our Android™ App is freely available on Google Play™! We now support even a broader range of hardware players including the cheap MK808b or MK809 IV based devices or tablets. Upon request we also offer introduced a broadcast license for players. </widget>
   </node>
 </nodes>
-
