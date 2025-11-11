@@ -1,7 +1,52 @@
 <nodes name="xml widget sample">
-   <node duration="4" category="news" validTo="20180911T1530">
-      <widget id="message" type="text">TEXT FÜR EIN TEXTELEMENT</widget>
-       <widget id="img1" type="image">URL ZU EINER BILD-DATEI</widget>
-       <widget id="video1" type="video">URL ZU EINER MP4-VIDEO-DATEI</widget>
-   </node>
+<node duration="8" category="schule" validTo="202510300000">
+<widget id="title" type="text">KW 44: Mittagsmusik, verantwortlich Patrik Lüscher</widget>
+<widget id="message" type="text">30.10.2025 – 12:05 Uhr @ Aulabühne</widget>
+<widget id="img1" type="image">https://s3-eu-west-1.amazonaws.com/sklera/xmlsample/home_features_mac_phone.jpg</widget>
+</node>
+<node duration="8" category="schule" validTo="202510300000">
+<widget id="title" type="text">KW 44: YES-Gründungsversammlung</widget>
+<widget id="message" type="text">30.10.2025 – 19:00 Uhr @ PE16</widget>
+<widget id="img1" type="image">https://s3-eu-west-1.amazonaws.com/sklera/xmlsample/home_features_mac_phone.jpg</widget>
+</node>
+<node duration="8" category="schule" validTo="202510310000">
+<widget id="title" type="text">KW 44: TNT Theater - Edgar Allan Poe (schulinterne Aufführung)</widget>
+<widget id="message" type="text">31.10.2025 – 16:30 Uhr @ Aula</widget>
+<widget id="img1" type="image">https://s3-eu-west-1.amazonaws.com/sklera/xmlsample/home_features_mac_phone.jpg</widget>
+</node>
+<node duration="8" category="schule" validTo="202511010000">
+<widget id="title" type="text">KW 44: Allerheiligen, schulfrei</widget>
+<widget id="message" type="text">01.11.2025 – Uhr @ </widget>
+<widget id="img1" type="image">https://s3-eu-west-1.amazonaws.com/sklera/xmlsample/home_features_mac_phone.jpg</widget>
+</node>
+<node duration="8" category="schule" validTo="202511030000">
+<widget id="title" type="text">KW 45: FMS 3. Klasse: Abgabe SAR an die Betreuungsperson</widget>
+<widget id="message" type="text">03.11.2025 – 12:00 Uhr @ </widget>
+<widget id="img1" type="image">https://s3-eu-west-1.amazonaws.com/sklera/xmlsample/home_features_mac_phone.jpg</widget>
+</node>
+<node duration="8" category="schule" validTo="202511030000">
+<widget id="title" type="text">KW 45: GYM/FMS 1. bis 4. Klasse: Abgabe Freifach-Abmeldungen für das 2. Semester</widget>
+<widget id="message" type="text">03.11.2025 – 16:30 Uhr @ Admin-Büro</widget>
+<widget id="img1" type="image">https://s3-eu-west-1.amazonaws.com/sklera/xmlsample/home_features_mac_phone.jpg</widget>
+</node>
+<node duration="8" category="schule" validTo="202511050000">
+<widget id="title" type="text">KW 45: Abendmusik (verantwortlich Daniel Schaerer)</widget>
+<widget id="message" type="text">05.11.2025 – 18:00 Uhr @ Aula</widget>
+<widget id="img1" type="image">https://s3-eu-west-1.amazonaws.com/sklera/xmlsample/home_features_mac_phone.jpg</widget>
+</node>
+<node duration="8" category="schule" validTo="202511060000">
+<widget id="title" type="text">KW 45: Poetry Slam Workshop</widget>
+<widget id="message" type="text">06.11.2025 – 14:45 Uhr @ Information folgt</widget>
+<widget id="img1" type="image">https://s3-eu-west-1.amazonaws.com/sklera/xmlsample/home_features_mac_phone.jpg</widget>
+</node>
+<node duration="8" category="schule" validTo="202511060000">
+<widget id="title" type="text">KW 45: GYM 3. Klasse: Information zu Maturaarbeit und Ergänzungsfach-Wahl (obligatorisch)</widget>
+<widget id="message" type="text">06.11.2025 – 16:30 Uhr @ Mensa und div. Schulzimmer</widget>
+<widget id="img1" type="image">https://s3-eu-west-1.amazonaws.com/sklera/xmlsample/home_features_mac_phone.jpg</widget>
+</node>
+<node duration="8" category="schule" validTo="202511060000">
+<widget id="title" type="text">KW 45: Kantiforum: *Müslüm - Helfetisch* Comedy</widget>
+<widget id="message" type="text">06.11.2025 – 20:00 Uhr @ Aula</widget>
+<widget id="img1" type="image">https://s3-eu-west-1.amazonaws.com/sklera/xmlsample/home_features_mac_phone.jpg</widget>
+</node>
 </nodes>
