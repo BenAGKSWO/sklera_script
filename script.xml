@@ -1,19 +1,19 @@
 <nodes name="xml widget sample">
   <node duration="8">
-    <widget id="title" type="text">KW 44: Mittagsmusik, verantwortlich Patrik Lüscher</widget>
-    <widget id="message" type="text">30.10.2025 – 12:05 Uhr @ Aulabühne</widget>
+    <widget id="title1" type="text">KW 44: Mittagsmusik, verantwortlich Patrik Lüscher</widget>
+    <widget id="message1" type="text">30.10.2025 – 12:05 Uhr @ Aulabühne</widget>
   </node>
   <node duration="8">
-    <widget id="title" type="text">KW 44: YES-Gründungsversammlung</widget>
-    <widget id="message" type="text">30.10.2025 – 19:00 Uhr @ PE16</widget>
+    <widget id="title2" type="text">KW 44: YES-Gründungsversammlung</widget>
+    <widget id="message2" type="text">30.10.2025 – 19:00 Uhr @ PE16</widget>
   </node>
     <node duration="8">
-    <widget id="title" type="text">KW 44: TNT Theater - Edgar Allan Poe (schulinterne Aufführung)</widget>
-    <widget id="message" type="text">31.10.2025 – 16:30 Uhr @ Aula</widget>
+    <widget id="title3" type="text">KW 44: TNT Theater - Edgar Allan Poe (schulinterne Aufführung)</widget>
+    <widget id="message3" type="text">31.10.2025 – 16:30 Uhr @ Aula</widget>
   </node>
   <node duration="8">
-    <widget id="title" type="text">KW 44: Allerheiligen, schulfrei</widget>
-    <widget id="message" type="text">01.11.2025 – Uhr @ </widget>
+    <widget id="title4" type="text">KW 44: Allerheiligen, schulfrei</widget>
+    <widget id="message4" type="text">01.11.2025 – Uhr @ </widget>
   </node>
   <node duration="8">
     <widget id="title" type="text">KW 45: FMS 3. Klasse: Abgabe SAR an die Betreuungsperson</widget>
@@ -40,4 +40,5 @@
     <widget id="message" type="text">06.11.2025 – 20:00 Uhr @ Aula</widget>
   </node>
 </nodes>
+
 
