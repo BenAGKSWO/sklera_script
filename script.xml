@@ -1,13 +1,10 @@
-<nodes name="xml widget sample">
-  <node duration="4">
-    <widget id="title1" type="text">KW 44: Mittagsmusik, verantwortlich Patrik Lüscher</widget>
-    <widget id="message1" type="text">30.10.2025 – 12:05 Uhr @ Aulabühne</widget>
+<nodes name="schulnetzdaten">
+  <node duration="4" category="news">
+    <widget id="title" type="text">KW 44: Mittagsmusik, verantwortlich Patrik Lüscher</widget>
+    <widget id="message" type="text">30.10.2025 – 12:05 Uhr @ Aulabühne</widget>
   </node>
-  <node duration="4">
-    <widget id="title2" type="text">KW 44: YES-Gründungsversammlung</widget>
-    <widget id="message2" type="text">30.10.2025 – 19:00 Uhr @ PE16</widget>
+  <node duration="4" category="news">
+    <widget id="title" type="text">KW 44: YES-Gründungsversammlung</widget>
+    <widget id="message" type="text">30.10.2025 – 19:00 Uhr @ PE16</widget>
   </node>
 </nodes>
-
-
-
