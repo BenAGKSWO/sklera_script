@@ -1,11 +1,7 @@
 <nodes name="schulnetzdaten">
   <node duration="5" category="news">
-    <widget id="title" type="text">Supported hardware</widget>
-    <widget id="message" type="text">With sklera your project gets transfered on any screen. Choose between our supported professional signage displays from LG, Samsung or NEC and use sklera using the integrated HTML5 media player. Or you can select a cheap Chrome OS based device like Chromebox or Chromebit to use sklera on your existing displays. Continue to get more information about the available hardware options.</widget>
-  </node>
-  <node duration="5" category="news">
-    <widget id="title" type="text">Android App is public</widget>
-    <widget id="message" type="text">Our Android™ App is freely available on Google Play™! We now support even a broader range of hardware players including the cheap MK808b or MK809 IV based devices or tablets. Upon request we also offer introduced a broadcast license for players. </widget>
+    <widget id="video1" type="video">https://www.srf.ch/sport/resultcenter/olympics/ticker</widget>
   </node>
 </nodes>
+
 
