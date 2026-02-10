@@ -1,7 +1,9 @@
 <nodes name="schulnetzdaten">
   <node duration="5" category="news">
+    <widget id="message" type="text">TEXT FÜR EIN TEXTELEMENT</widget>
     <widget id="video1" type="video">https://www.srf.ch/sport/resultcenter/olympics/ticker</widget>
   </node>
 </nodes>
+
 
 
